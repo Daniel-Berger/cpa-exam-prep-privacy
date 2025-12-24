@@ -122,11 +122,10 @@ Our App offers the following auto-renewable subscription options:
 - **Pro Annual**: Billed annually, auto-renews every year
 - **Pro Lifetime**: One-time purchase, no renewal
 
-  | Subscription | Duration | Price |
-|--------------|----------|-------|-----------------|
-| **Pro Monthly** | 1 month (auto-renewing) | $14.99 USD |
-| **Pro Annual** | 1 year (auto-renewing) | $99.99 USD |
-| **Pro Lifetime** | 1 time purchase | $199.99 USD |
+| Subscription     | Duration                | Price |
+| **Pro Monthly**  | 1 month (auto-renewing) | $14.99 USD |
+| **Pro Annual**   | 1 year (auto-renewing)  | $99.99 USD |
+| **Pro Lifetime** | 1 time purchase         | $199.99 USD |
 
 ### 6.2 Payment and Billing
 
